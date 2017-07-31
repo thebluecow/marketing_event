@@ -9,5 +9,8 @@
         <index name="index">
             <element name="marketing_event"/>
         </index>
+        <index name="index2">
+            <element name="email"/>
+        </index>
     </element>
 </database>
